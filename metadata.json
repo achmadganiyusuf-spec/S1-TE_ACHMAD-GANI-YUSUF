@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Gerak Rotasi dan Torsi",
+  "description": "Animasi interaktif dan kalkulator perhitungan praktikum Gerak Rotasi dan Torsi sesuai Laporan Resmi dan Jobsheet Fisika Teknik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
